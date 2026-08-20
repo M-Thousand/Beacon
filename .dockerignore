@@ -13,3 +13,8 @@
 # Environment
 /.env
 /.env.dev
+
+# OS & Temp
+.DS_Store
+Thumbs.db
+tmp

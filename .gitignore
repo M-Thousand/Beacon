@@ -3,9 +3,15 @@
 /.direnv
 /.idea
 /.runtime
+
 # Build
 /target
 
 # Environment
 /.env
 /.env.dev
+
+# OS & Temp
+.DS_Store
+Thumbs.db
+tmp
