@@ -1,0 +1,15 @@
+# GIT
+.git
+
+# Dot file
+/.vscode
+/.direnv
+/.idea
+/.runtime
+
+# Build
+/target
+
+# Environment
+/.env
+/.env.dev
